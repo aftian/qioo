@@ -1,0 +1,15 @@
+Source: qioo
+Section: editors
+Priority: extra
+Maintainer: BlankOn Developers <Blankon-dev@googlegroups.com>
+XSBC-Original-Maintainer: أحمد المحمودي (Ahmed El-Mahmoudy) <aelmahmoudy@users.sourceforge.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.4
+Homepage: http://code.google.com/p/qioo/
+
+Package: qioo
+Architecture: all
+Depends: ${misc:Depends}, libreoffice-common
+Description: Qur'an in OpenOffice
+ QiOO is an extension for OpenOffice.org Writer extension to aid with inserting
+ Qur'an text.

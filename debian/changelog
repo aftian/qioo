@@ -1,0 +1,19 @@
+qioo (0.4b-1blankon2) pattimura; urgency=low
+
+  * change install prem postinst preinst to libreoffice from openoffice.
+
+ -- aftian <aftian@di.blankon.in>  Mon, 30 May 2011 10:57:26 +0700
+
+qioo (0.4b-1blankon1) pattimura; urgency=low
+
+  * debian/control
+    - Maintener BlankOn
+    - deppends libreoffice-common
+  
+ -- aftian <aftian@di.blankon.in>  Mon, 23 May 2011 20:00:41 +0700
+
+qioo (0.4b-1~ppa1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- أحمد المحمودي (Ahmed El-Mahmoudy) <aelmahmoudy@users.sourceforge.net>  Mon, 29 Mar 2010 16:41:26 +0200
